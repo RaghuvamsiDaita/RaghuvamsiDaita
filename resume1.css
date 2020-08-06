@@ -1,0 +1,60 @@
+.header {
+  background-color: #26d0c9;
+  color: #000000;
+}
+.header-text{
+  font-size: 40px;
+  height: inherit;
+}
+.header-text2{
+  float: right;
+  font-size: 20px;
+}
+.about{
+  background-color: #3262a8;
+  font-size: 25px;
+  border: 3px solid #000000;
+}
+.about p{
+  color: #ccd916;
+}
+.experience{
+  background-color: #fcba03;
+  border: 3px solid #fc0349;
+}
+.skills{
+  background-color: #fc0349;
+  border: 5px solid #3262a8;
+}
+.certifications h4{
+  background-color: #857e80;
+  font-size: 25px;
+}
+.certifications p{
+  font-size: 15px;
+
+}
+.img1{
+  float: left;
+  width: 250px;
+}
+.projects{
+  width:100px;
+}
+li{
+  font-size: 25px;
+}
+.skills span{
+  font-size: 30px;
+}
+.experience h3{
+  font-size:30px;
+  font-family: 'copperplate gothic';
+}
+.about h3{
+  font-family: 'Avenir Next';
+}
+.projects h4{
+  font-size: 25px;
+  font-family: 'EuroRoman';
+}
